@@ -14,6 +14,8 @@ Un projet d'analyse de matching de profils utilisant des techniques avancées de
 ### [Livrables](https://github.com/MendyData/Livrables)
 Un ensemble de livrables démontrant mes compétences en Jupyter Notebook et en analyse de données.
 
+De nouveaux projets sont en cours!
+
 ## Compétences Techniques
 - Python
 - Jupyter Notebook
